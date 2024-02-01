@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[653],{653:function(e,n,a){a.r(n),a.d(n,{default:function(){return s}});var c=a(184);function s(){return(0,c.jsx)("div",{className:"bg-gray-background",children:(0,c.jsx)("div",{className:"mx-auth max-w-screen-lg",children:(0,c.jsx)("p",{className:"text-center text-2xl",children:"Not Found!"})})})}}}]);
+//# sourceMappingURL=653.e8200543.chunk.js.map

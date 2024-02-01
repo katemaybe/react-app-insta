@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-app-insta/static/css/main.aeb5e7c8.css",
+    "main.js": "/react-app-insta/static/js/main.91ea3b35.js",
+    "static/js/400.e08ce65a.chunk.js": "/react-app-insta/static/js/400.e08ce65a.chunk.js",
+    "static/js/731.c28321e2.chunk.js": "/react-app-insta/static/js/731.c28321e2.chunk.js",
+    "static/js/653.e8200543.chunk.js": "/react-app-insta/static/js/653.e8200543.chunk.js",
+    "static/js/580.f8ac1f34.chunk.js": "/react-app-insta/static/js/580.f8ac1f34.chunk.js",
+    "static/js/577.62ee464e.chunk.js": "/react-app-insta/static/js/577.62ee464e.chunk.js",
+    "static/js/814.ab178f1b.chunk.js": "/react-app-insta/static/js/814.ab178f1b.chunk.js",
+    "index.html": "/react-app-insta/index.html",
+    "main.aeb5e7c8.css.map": "/react-app-insta/static/css/main.aeb5e7c8.css.map",
+    "main.91ea3b35.js.map": "/react-app-insta/static/js/main.91ea3b35.js.map",
+    "400.e08ce65a.chunk.js.map": "/react-app-insta/static/js/400.e08ce65a.chunk.js.map",
+    "731.c28321e2.chunk.js.map": "/react-app-insta/static/js/731.c28321e2.chunk.js.map",
+    "653.e8200543.chunk.js.map": "/react-app-insta/static/js/653.e8200543.chunk.js.map",
+    "580.f8ac1f34.chunk.js.map": "/react-app-insta/static/js/580.f8ac1f34.chunk.js.map",
+    "577.62ee464e.chunk.js.map": "/react-app-insta/static/js/577.62ee464e.chunk.js.map",
+    "814.ab178f1b.chunk.js.map": "/react-app-insta/static/js/814.ab178f1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeb5e7c8.css",
+    "static/js/main.91ea3b35.js"
+  ]
+}
